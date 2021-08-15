@@ -1,0 +1,16 @@
+[
+{
+  "modid": "itabashi",
+  "name": "横浜家系ラーメン 板橋家 itabashiya",
+  "description": "Sushi! Tempura! 横浜家系ラーメン",
+  "version": "1.1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["bo-yakitarako"],
+  "credits": "bo-yakitarako",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
